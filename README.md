@@ -36,6 +36,12 @@ A tiny GPT implementation following Andrej Karpathy's youtube [video](https://ww
    pip install torch
    ```
 
+5. **Download the dataset**
+
+   ```bash
+   wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+   ```
+
 5. **Run the Project**
 
    ```bash
